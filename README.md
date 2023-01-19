@@ -1,6 +1,12 @@
 # Intermediate-Graphics-Lab-1
-Tasks:
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Tasks:
+
 - [ ] Create model
 - [ ] Create textures
 - [ ] Create shader
- 
+
+</p>
+</details>
